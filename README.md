@@ -21,7 +21,7 @@ I enjoy breaking problems down, writing clean code, and improving one step at a 
 - **Language:** Python  
 - **Backend:** Flask (learning), REST APIs  
 - **Data:** JSON, basic SQL concepts  
-- **Tools:** Git, GitHub, Command Line  
+- **Tools:** Git, GitHub, Command Line ,docker
 - **Learning next:** Backend architecture, AI fundamentals
 
 ---
