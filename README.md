@@ -1,32 +1,25 @@
 Hey there 👋
 
-I’m Ayomide — a Python-focused developer learning by building real projects.
+I’m Ayomide — a Python developer focused on backend systems, automation, and practical AI solutions.
 
-I’m interested in backend development, automation, and applied AI.  
-Right now, my main goal is to strengthen my fundamentals, ship practical projects, and grow into a solid backend / AI engineer over time.
+I build real-world projects while strengthening my fundamentals, with a focus on writing clean, maintainable code and solving problems efficiently.
 
-I enjoy breaking problems down, writing clean code, and improving one step at a time.
-
----
-
-### 🔭 What I’m working on
-- Deepening my Python fundamentals (data structures, error handling, file handling)
-- Building small backend and automation projects
-- Learning Flask for APIs and backend services
-- Exploring AI & machine learning concepts through hands-on experiments
-
----
-
-### 🧰 My current tools
-- **Language:** Python  
-- **Backend:** Flask (learning), REST APIs  
-- **Data:** JSON, basic SQL concepts  
-- **Tools:** Git, GitHub, Command Line ,docker
-- **Learning next:** Backend architecture, AI fundamentals
-
----
-Currently open to junior backend / Python opportunities
-
+🔭 What I’m working on
+Building backend APIs with FastAPI
+Developing automation tools to solve everyday problems
+Applying AI/ML concepts in practical projects
+Improving core Python skills (data structures, error handling, file handling)
+-------
+🧰 Tech Stack
+Language: Python
+Backend: FastAPI, REST APIs
+Data: JSON, SQL (basics)
+Tools: Git, GitHub, Docker, Command Line
+--------
+🚀 What I can help with
+Backend APIs (FastAPI)
+Automation scripts (data processing, repetitive tasks)
+Python-based tools and utilities
 
 
 <!--
