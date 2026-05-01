@@ -9,13 +9,13 @@ Building backend APIs with FastAPI
 Developing automation tools to solve everyday problems
 Applying AI/ML concepts in practical projects
 Improving core Python skills (data structures, error handling, file handling)
--------
+___________________
 🧰 Tech Stack
 Language: Python
 Backend: FastAPI, REST APIs
 Data: JSON, SQL (basics)
 Tools: Git, GitHub, Docker, Command Line
---------
+________________________
 🚀 What I can help with
 Backend APIs (FastAPI)
 Automation scripts (data processing, repetitive tasks)
