@@ -13,8 +13,9 @@ ___________________
 🧰 Tech Stack
 Language: Python
 Backend: FastAPI, REST APIs
-Data: JSON, SQL (basics)
-Tools: Git, GitHub, Docker, Command Line
+Data: JSON, SQL,postgresql
+Tools: Git, GitHub, Docker, Command Line,redis
+
 ________________________
 🚀 What I can help with
 Backend APIs (FastAPI)
