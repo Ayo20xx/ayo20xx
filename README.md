@@ -18,5 +18,4 @@ Backend developer focused on Python, FastAPI, and practical automation — I bui
 - Automation scripts for data processing and repetitive tasks
 - Debugging and cleaning up existing Python/FastAPI codebases
 ### 📫 Links
-- Portfolio: [ayo20xx.github.io](https://ayo20xx.github.io)
 - GitHub: [@Ayo20xx](https://github.com/Ayo20xx)
