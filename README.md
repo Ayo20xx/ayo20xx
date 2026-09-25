@@ -3,7 +3,7 @@
 Backend developer focused on Python, FastAPI, and practical automation — I build real systems, not tutorials, with an emphasis on clean architecture and owning every design decision I make.
  
 ### 🔭 Currently building
-- **URL Shortener v2** — FastAPI, SQLModel, async PostgreSQL, deployed on Railway, with click tracking, expiry, and production middleware (rate limiting, request logging, error handling)
+- **URL Shortener v1** — FastAPI, SQLModel, async PostgreSQL, deployed on Railway, with click tracking, expiry, and production middleware (rate limiting, request logging, error handling)
 - **Tweet Audit** — analysis tool built around real-world data processing
 - **Payment Gateway API** — idempotency and distributed transaction handling against a mock bank API
 - **Traced** — concurrent writes, rolling-window eviction, out-of-order span assembly
